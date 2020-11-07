@@ -16,7 +16,7 @@ If you have enough flags around some grid with the number, you can open all rema
 ![alt text](https://github.com/cmirkhad/MineSweeper/blob/main/screenshots/middleclick.png)
 ![alt text](https://github.com/cmirkhad/MineSweeper/blob/main/screenshots/openedmiddleclick.png)
 <hr>
-# Some details about project
+# <b>Some details about project</b> <br>
 There you can download the JAR file of the Application, which is there
 https://github.com/cmirkhad/MineSweeper/tree/main/MineSweeper/out/artifacts/MineSweeper_jar
 
