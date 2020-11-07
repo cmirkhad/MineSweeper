@@ -73,7 +73,7 @@ public class Controller {
         loadingImage.addStuff(restartbtn, 0, b,3,1);
         loadingImage.addStuff(menubtn,3,b,3,1);
         loadingImage.addStuff(numflagedtext, a-3, b,3,1);
-        loadingImage.addStuff(numBombstext, b-3, b+1,3,1);
+        loadingImage.addStuff(numBombstext, a-3, b+1,3,1);
         loadingImage.addStuff(winOrLostText, 0, b+1,7,2);
 
 
