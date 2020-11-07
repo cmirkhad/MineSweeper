@@ -4,5 +4,6 @@ MineSweeper is a single player puzzle game. The purpose of the game is to clear 
 My version of this game is a JavaFX Application for MidTerm project. 
 Here is the description of the Application:
 <br>
-<p>   First, you can choose the level of the game from easy to extra hard:</p>
+    First, you can choose the level of the game from easy to extra hard:
 ![alt text](https://github.com/cmirkhad/MineSweeper/blob/main/screenshots/menu.png)
+a;sldjkf
