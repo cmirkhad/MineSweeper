@@ -17,4 +17,6 @@ If you have enough flags around some grid with the number, you can open all rema
 ![alt text](https://github.com/cmirkhad/MineSweeper/blob/main/screenshots/openedmiddleclick.png)
 <hr>
 # Some details about project
+There you can download the JAR file of the Application, which is there
+
 
