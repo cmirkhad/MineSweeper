@@ -18,5 +18,5 @@ If you have enough flags around some grid with the number, you can open all rema
 <hr>
 # Some details about project
 There you can download the JAR file of the Application, which is there
-
+https://github.com/cmirkhad/MineSweeper/tree/main/MineSweeper/out/artifacts/MineSweeper_jar
 
