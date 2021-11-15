@@ -23,4 +23,4 @@ There you can download the JAR file of the Application<br>
 <br>Unittest<br>
 [unittest](https://github.com/cmirkhad/MineSweeper/blob/main/MineSweeper/src/JUnittest.java)
 <br>
-[Tutorial](https://github.com/cmirkhad/MidtermMusicDataStorage/blob/master/tutorial.md)
+[#Tutorial](https://github.com/cmirkhad/MidtermMusicDataStorage/blob/master/tutorial.md)
