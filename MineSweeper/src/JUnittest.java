@@ -1,6 +1,6 @@
 import MainClasses.Bombsetter;
 import org.junit.Test;
-
+int ab = 0;
 import static org.junit.Assert.*;
 public class JUnittest {
     @Test

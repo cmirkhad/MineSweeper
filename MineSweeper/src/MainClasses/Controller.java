@@ -1,5 +1,5 @@
 package MainClasses;
-
+int ab = 0;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.fxml.FXML;

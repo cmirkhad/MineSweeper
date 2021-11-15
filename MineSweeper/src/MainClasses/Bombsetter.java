@@ -1,5 +1,5 @@
 package MainClasses;
-
+int ab = 0;
 public class Bombsetter {
     int[][] array;
     int row,column;
