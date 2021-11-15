@@ -21,5 +21,5 @@ If you have enough flags around some grid with the number, you can open all rema
 There you can download the JAR file of the Application<br>
 [MineSweeper](https://github.com/cmirkhad/MineSweeper/tree/main/MineSweeper/out/artifacts/MineSweeper_jar)
 <br>Unittest<br>
-- [unittests](https://github.com/cmirkhad/MineSweeper/blob/main/MineSweeper/src/JUnittest.java)
+[unittests](https://github.com/cmirkhad/MineSweeper/blob/main/MineSweeper/src/JUnittest.java)
 <br>
